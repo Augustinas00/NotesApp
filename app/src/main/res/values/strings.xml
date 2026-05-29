@@ -1,0 +1,34 @@
+<resources>
+
+    <string name="app_name">Užrašai</string>
+
+    <string name="label_saved_notes">Išsaugoti užrašai</string>
+    <string name="message_no_notes">Užrašų nėra. Meniu pasirinkite „Sukurti užrašą“.</string>
+
+    <string name="menu_add_note">Sukurti užrašą</string>
+    <string name="menu_delete_note">Ištrinti užrašą</string>
+
+    <string name="title_add_note">Naujas užrašas</string>
+    <string name="title_delete_note">Ištrinti užrašą</string>
+
+    <string name="label_note_name">Pavadinimas</string>
+    <string name="hint_note_name">Įveskite užrašo pavadinimą</string>
+
+    <string name="label_note_content">Turinys</string>
+    <string name="hint_note_content">Įveskite užrašo turinį</string>
+
+    <string name="button_save_note">Išsaugoti užrašą</string>
+    <string name="button_delete_note">Ištrinti pasirinktą užrašą</string>
+
+    <string name="label_select_note">Pasirinkite norimą ištrinti užrašą:</string>
+    <string name="label_selected_note_content">Pasirinkto užrašo turinys</string>
+
+    <string name="error_note_name_empty">Pavadinimas negali būti tuščias.</string>
+    <string name="error_note_content_empty">Turinys negali būti tuščias.</string>
+    <string name="error_note_name_exists">Užrašas tokiu pavadinimu jau egzistuoja.</string>
+
+    <string name="message_note_saved">Užrašas išsaugotas.</string>
+    <string name="message_note_deleted">Užrašas ištrintas.</string>
+    <string name="message_no_notes_to_delete">Nėra užrašų, kuriuos būtų galima ištrinti.</string>
+
+</resources>
